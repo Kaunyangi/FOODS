@@ -41,5 +41,6 @@ html{
     font-size: 35rem;
     color: #a79a2d;
     position: absolute;
+    text-shadow: 0.2rem 0.2rem 0.2rem #000;
 }
 /* End of section-1 */
