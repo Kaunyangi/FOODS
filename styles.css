@@ -37,7 +37,9 @@ html{
     text-shadow: 0.3rem 0.3rem 0.3rem #000;
 }
 
-.section-1-icons{
-    
+.section-1-icons i{
+    font-size: 35rem;
+    color: #a79a2d;
+    position: absolute;
 }
 /* End of section-1 */
