@@ -24,5 +24,12 @@ html{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-evenly;
+}
+
+.section-heading{
+    font-size: 12rem;
+    font-weight: 900;
+    color: #fff;
 }
 /* End of section-1 */
