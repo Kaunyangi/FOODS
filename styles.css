@@ -32,5 +32,12 @@ html{
     font-weight: 900;
     color: #fff;
     text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 0.5rem;
+    text-shadow: 0.3rem 0.3rem 0.3rem #000;
+}
+
+.section-1-icons{
+    
 }
 /* End of section-1 */
